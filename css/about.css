@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Montserrat:wght@300&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: rgb(0, 108, 0);
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    border-bottom: 1px solid rgb(185, 185, 185);
+}
+
+/* visited link */
+
+a:visited {
+    color: rgb(173, 147, 0);
+}
+
+/* mouse over link */
+a:hover {
+    color: rgb(0, 108, 0);
+}
+
+/* selected link */
+
+a:active {
+    color: blue;
+}
+
+code, span {
+    font-weight: bold;
+    color: rgb(0, 215, 0);
+}
+
+.images {
+    width: 400px;
+}
+
